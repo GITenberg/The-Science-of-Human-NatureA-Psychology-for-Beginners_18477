@@ -1,0 +1,30 @@
+_repo: The-Science-of-Human-NatureA-Psychology-for-Beginners_18477
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pyle, William Henry
+    birthdate: 1875
+    gutenberg_agent_id: '8055'
+    url: http://www.gutenberg.org/2009/agents/8055
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2006-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18477'
+  lccn: '17016884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Educational psychology'
+- !lcsh 'Psychology'
+- !lcc 'LB'
+title: 'The Science of Human Nature
+
+  A Psychology for Beginners'
+url: http://www.gutenberg.org/ebooks/18477
