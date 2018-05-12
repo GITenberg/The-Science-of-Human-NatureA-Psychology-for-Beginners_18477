@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8055'
     url: http://www.gutenberg.org/2009/agents/8055
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18477#The-Science-of-Human-NatureA-Psychology-for-Beginners
 gutenberg_bookshelf: Psychology
 gutenberg_issued: '2006-05-31'
 gutenberg_type: Text
